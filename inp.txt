@@ -1,0 +1,13 @@
+
+// okay
+/* hello */
+hello
+    
+        cout << "File not found!" << endl;
+    
+
+    file.close();
+    return 0;
+}
+//
+/**/
