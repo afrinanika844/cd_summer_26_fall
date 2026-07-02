@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1782807545 source:d:\university\9th sem\compiler\com lab\exp2\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<cctype>
+
